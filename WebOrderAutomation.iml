@@ -7,5 +7,22 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../Utils/Selenium jars/libs/byte-buddy-1.8.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Utils/Selenium jars/libs/commons-exec-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Utils/Selenium jars/libs/guava-25.0-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Utils/Selenium jars/libs/okhttp-3.11.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Utils/Selenium jars/libs/okio-1.14.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Utils/Selenium jars/client-combined-3.141.59.jar!/" />
+          <root url="jar://$MODULE_DIR$/../Utils/testng-7.4.0 (1).jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../Utils/Selenium jars/client-combined-3.141.59-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
